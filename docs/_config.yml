@@ -12,6 +12,7 @@
 # Name of website
 title: Un étudiant en Brompton
 
+gem "github-pages", "~> 231", group: :jekyll_plugins
 
 domain: dosiyari.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://dosiyari.github.io  # the base hostname and protocol for your site, e.g. http://example.com
