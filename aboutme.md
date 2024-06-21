@@ -1,16 +1,18 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Qui suis-je ?
+subtitle: Promis cela n'est pas une charade. 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Bonjour,
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Jeune actif sudiste modéré ("le nord" comment à partir de Vienne/la Rochelle) travaillant dans le secteur de l'informatique.  
 
-What else do you need?
+Curieux par nature aidé par les offres avantageuses de la SNCF et celles des régions du Midi. Ces offres avec l'utilisation de mon Brompton m'ont permis de voir un peu le territoire au sud du mont Ventoux (et jusqu'au sud du Mont Blanc lors d'instants de témérité parfois durement regretté). 
 
-### My story
+Ce blog aura avant tout pour but de présenter des retours d'expériences, d'expéditions et autres concernant mon Brompton, la cyclo-randonnée, l'informatique ou autres.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Bonne balade sur ce site,
+![Beziers]({{ '/assets/img/IMG_20231031_131021.jpg' | relative_url }})
+
+

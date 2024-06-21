@@ -28,7 +28,7 @@ author: Dosiyari
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  Qui suis-je ?: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
