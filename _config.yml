@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Un étudiant en Brompton
+title: En Brompton
 
 gem "github-pages", "~> 231", group: :jekyll_plugins
 
@@ -29,7 +29,7 @@ author: Dosiyari
 
 navbar-links:
   Qui suis-je ?: "aboutme"
-  Resources:
+  Ressources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
 
