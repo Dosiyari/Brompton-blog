@@ -20,24 +20,24 @@ Lors de ce trajet, j'ai fait plusieurs arrêts à des points qui me semblaient i
 
 ## Les Angles commune situé a coté d'Avignon 
 
-![Les Angles](https://servimg.com/view/20527642/4#)
+![Les Angles](https://i.servimg.com/u/f69/20/52/76/42/dscf5610.jpg)
 
-![Les Angles1](https://servimg.com/view/20527642/6#)
+![Les Angles1](https://i.servimg.com/u/f69/20/52/76/42/dscf5711.jpg)
 
 
 ## Aragon
 
 Village situé au D'Avignon disposant encore d'un rempart pour se protéger de la crue du Rhône et d'un non-visitable malheureusement.
 
-![Aragon](https://servimg.com/view/20527642/7 "Aragon")
+![Aragon](https://i.servimg.com/u/f69/20/52/76/42/dscf5611.jpg "Aragon")
 
-![Aragon](https://servimg.com/view/20527642/8 "Aragon")
+![Aragon](https://i.servimg.com/u/f69/20/52/76/42/dscf5612.jpg "Aragon")
 
-![Aragon](https://servimg.com/view/20527642/10 "Aragon")
+![Aragon](https://i.servimg.com/u/f69/20/52/76/42/dscf5614.jpg "Aragon")
 
 Puis, la cheminé d'une ancienne usine visible à la sortie du village. Nous allons la revoir lors de prochaine balade.
 
-![Aragon](https://servimg.com/view/20527642/11 "Aragon")
+![Aragon](https://i.servimg.com/u/f69/20/52/76/42/img_2013.jpg "Aragon")
 
 ## Le village de Théziers 
 
@@ -54,7 +54,7 @@ Avec un très beau château, non-ouvert au public. Il fait partie d'un domaine v
 
 Un petit passage sur le gardon (nous ne sommes plus très loin du pont du Gard ;-) ) :
 
-![Gardon](https://servimg.com/view/20527642/14 "Montfrin")
+![Gardon](https://i.servimg.com/u/f69/20/52/76/42/img_2014.jpg "Montfrin")
 
 
 ## Meynes - Serhnac
@@ -62,19 +62,19 @@ Un petit passage sur le gardon (nous ne sommes plus très loin du pont du Gard ;
 C'est à partir d'ici que la via RhÔna remplace une ancienne voie de chemin de fer qui va dans un sens vers Beaucaire (poursuite de la via RhÔna) et dans l'autre le pont du Gard.
 Nous allons rencontrer des anciennes gares sur la route, dont cette dernière :
 
-![Meynes](https://servimg.com/view/20527642/15 "Meynes")
+![Meynes](https://i.servimg.com/u/f69/20/52/76/42/img_2016.jpg "Meynes")
 
 J'ai fait un détour à Serhnac. C'est un village qui est connu pour disposer d'ancien tunnel créait par les Romains pour l'Aqueduc de Nimes dont le pont du gard est l'une réalisation. Dans les années 80, le CNRS a aussi réalisé un tunnel pour des études sur la construction de tunnel dans l'antiquité et voir aussi pour la création rapide d'un tunnel (voir plus au musée du pont du gard). Voici d'ailleurs, l'un des tunnels réalisé :
 
-![tunnel](https://servimg.com/view/20527642/17 "Meynes")
+![tunnel](https://i.servimg.com/u/f69/20/52/76/42/dscf5616.jpg "Meynes")
 
 ## Arriver au pont du Gard
 
 Arrivé enfin au St-Graal après plus de 50 Km (le plus dur reste encore à venir):
 
-![Gard](https://servimg.com/view/20527642/18 "Gard")
+![Gard](https://i.servimg.com/u/f69/20/52/76/42/img_2017.jpg "Gard")
 
-![Gard](https://servimg.com/view/20527642/18 "Gard")
+![Gard](https://i.servimg.com/u/f69/20/52/76/42/img_2018.jpg "Gard")
 
 Le musée est très qualitatif et retrace bien l'aqueduc de Nîmes et son histoire. Il est à faire même si sa boutique semble un peu attrape touriste... tout comme le restaurant situé à côté du pont du gard (mes restes de barre de céréales furent mon repas). 
 
@@ -82,29 +82,29 @@ Tout au alentour du Parc, il a plusieurs chemins de randonnée qui nous permette
 
 Lors de mon départ, j'ai pu suivre une partie de ce chemin où le Brompton a suivi tant bien que mal pour arriver à Vers-le-pont :
 
-![ruine](https://servimg.com/view/20527642/20 "ruine")
+![ruine](https://i.servimg.com/u/f69/20/52/76/42/dscf5617.jpg "ruine")
 
 ## Vers-le-pont (ou vers pour les intimes)
 
 Petit village limitrophe du plus haut pont romain :
 
-![vers](https://servimg.com/view/20527642/21 "vers")
+![vers](https://i.servimg.com/u/f69/20/52/76/42/dscf5618.jpg "vers")
 
-![vers](https://servimg.com/view/20527642/22 "vers")
+![vers](https://i.servimg.com/u/f69/20/52/76/42/img_2019.jpg "vers")
 
 ## Castillon-du-gard
 
 Aprés un pente assez longue, nous arrivons devant ce magnifique village suspendu : 
 
-![Castillon](https://servimg.com/view/20527642/23 "Castillon")
+![Castillon](https://i.servimg.com/u/f69/20/52/76/42/img_2020.jpg "Castillon")
 
-![Castillon](https://servimg.com/view/20527642/25 "Castillon")
+![Castillon](https://i.servimg.com/u/f69/20/52/76/42/dscf5620.jpg "Castillon")
 
 Avec une vue sur les alentours :
 
-![Castillon](https://servimg.com/view/20527642/24 "Castillon")
+![Castillon](https://i.servimg.com/u/f69/20/52/76/42/dscf5619.jpg "Castillon")
 
-![Castillon](https://servimg.com/view/20527642/26 "Castillon")
+![Castillon](https://i.servimg.com/u/f69/20/52/76/42/dscf5621.jpg "Castillon")
 
 
 ## Garrigues
@@ -113,23 +113,23 @@ La suite du trajet est exclusivement de la garrigue où à différentes des stè
 C'est ce passage qui constitue la partie la plus technique du trajet. Il y a des successions de pentes et de cotes sur une 15-zaine Kilomètres :
 
 
-![Garrigue](https://servimg.com/view/20527642/27 "Garrigue")
+![Garrigue](https://i.servimg.com/u/f69/20/52/76/42/img_2021.jpg "Garrigue")
 
-![Garrigue](https://servimg.com/view/20527642/28 "Garrigue")
+![Garrigue](https://i.servimg.com/u/f69/20/52/76/42/img_2022.jpg "Garrigue")
 
 Avec une vue sur le mont Ventoux :
 
-![Garrigue](https://servimg.com/view/20527642/29 "Garrigue")
+![Garrigue](https://i.servimg.com/u/f69/20/52/76/42/dscf5712.jpg "Garrigue")
 
 Suite à une longue descente (qui m'a fait perdre les 300m d'altitude gagnée), je suis arrivé à ~~ la civilisation ~~ Rochefort-du-gard puis Angles afin d'éviter de faire un détour pour manger, il fut décidé... de manger dans une enseigne de Fast Food  ;_-( .
 
 ## Retour à la cité des Papes :
 
-![Avignon](https://servimg.com/view/20527642/30 "Avignon")
+![Avignon](https://i.servimg.com/u/f69/20/52/76/42/img_2023.jpg "Avignon")
 
-![Avignon](https://servimg.com/view/20527642/31 "Avignon")
+![Avignon](https://i.servimg.com/u/f69/20/52/76/42/img_2024.jpg "Avignon")
 
-![Avignon](https://servimg.com/view/20527642/32 "Avignon")
+![Avignon](https://i.servimg.com/u/f69/20/52/76/42/img_2025.jpg "Avignon")
 
 ## Le bilan de cette première grande balade :
 
