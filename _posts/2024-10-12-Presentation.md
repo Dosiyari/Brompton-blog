@@ -30,7 +30,6 @@ Avec évidemment différentes problématiques :
 * Prix plus important dues au pliage et de son degrés de compacité.
 * Pièce propriétaire possiblement propriétaire ou élément peu produit pour ces derniers.
 * " Communauté" afin d'avoir un retour d'expérience sur le produit et possible des produits autours.
-* Prix important en fonction du degrés de compacité.
 
 ## Le choix
 
