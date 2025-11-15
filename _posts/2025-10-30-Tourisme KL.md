@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Malaysia starter pack
-subtitle: "Starter pack des trucs à visiter en Malaisie"
+subtitle: "Que faire pendant les week-ends en Malaisie ?"
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [Malaisie, Visites]
