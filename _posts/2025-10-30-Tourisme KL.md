@@ -162,7 +162,7 @@ Différentes chutes privées peuvent être visitées moyennant un paiement (1-5 
 
 À noter qu'un ferry fait la liaison avec le continent (Alor Setar, qui vaut une petite visite). Il faut s'y prendre à l'avance mais cela peut valoir le coup, surtout que le train peut vous faire descendre (Penang) mais un peu (beaucoup;-)) monter… [faites aussi gaffe aux recommandations aux voyageurs.](https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/malaisie/#securite)
 
-![Chutes]({{ '/assets/img/Chute.JPG' | relative_url }})
+![Chutes]({{ '/assets/img/Chute.jpg' | relative_url }})
 *L'une des chutes privées.*
 
 ## Borneo
