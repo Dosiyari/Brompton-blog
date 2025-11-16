@@ -158,12 +158,10 @@ Il y a aussi le centre de l'artisanat qui est sympas avec un petit musée et dif
 
 Différentes chutes privées peuvent être visitées moyennant un paiement (1-5 RM). Faites gaffe aux singes (le parapluie est votre ami).
 
-![ID3]([https://tenor.com/krZiI0cy5SA.gif](https://media1.tenor.com/m/d9Moq2JaQQYAAAAd/indiana-jones-the-last-crusade.gif))
-
-À noter qu'un ferry fait la liaison avec le continent (Alor Setar, qui vaut une petite visite). Il faut s'y prendre à l'avance mais cela peut valoir le coup, surtout que le train peut vous faire descendre (Penang) mais un peu (beaucoup;-)) monter… [faites aussi gaffe aux recommandations aux voyageurs.](https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/malaisie/#securite)
-
 ![Chutes]({{ '/assets/img/Chutes.jpg' | relative_url }})
 *L'une des chutes privées.*
+
+À noter qu'un ferry fait la liaison avec le continent (Alor Setar, qui vaut une petite visite). Il faut s'y prendre à l'avance mais cela peut valoir le coup, surtout que le train peut vous faire descendre (Penang) mais un peu (beaucoup;-)) monter… [faites aussi gaffe aux recommandations aux voyageurs.](https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/malaisie/#securite)
 
 ## Borneo
 
