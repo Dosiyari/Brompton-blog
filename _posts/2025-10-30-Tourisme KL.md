@@ -39,7 +39,7 @@ La ville a été une porte d’entrée majeure pour diverses communautés marcha
 ![Massena]({{ '/assets/img/Masena.JPG' | relative_url }})
 *Place Massena de Malacca plus habitué par des corbeaux que des humains mais il y a un bon restos oriental.*
 
-![Malaka_Abandonner]({{ '/assets/img/Malaka_Projet.JPG' | relative_url }}
+![Malaka_Abandonner]({{ '/assets/img/Malaka_Projet.JPG' | relative_url }})
 *Projets à l’arrêt*
 
 Ce n’est pas la première fois qu’un projet ambitieux est lancé puis abandonné à Melaka, [comme ce fut le cas pour le monorail, arrêté peu après son ouverture.](https://en.wikipedia.org/wiki/Melaka_Monorail)
