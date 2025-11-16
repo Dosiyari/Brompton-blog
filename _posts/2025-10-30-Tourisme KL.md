@@ -12,7 +12,7 @@ author: Dosiyari
 
 L’une des premières questions que l’on se pose en arrivant en Malaisie est simple : que faire pendant les week-ends ?
 
-Bonne nouvelles comme le chanté un ancien footballeur célèbre espagnol, [je suis ce jeune étranger qui va vous faire voyager ;-).] (https://www.youtube.com/watch?v=ROXuh0RdjGA)
+Bonne nouvelles comme le chanté un ancien footballeur célèbre espagnol, [je suis ce jeune étranger qui va vous faire voyager ;-).](https://www.youtube.com/watch?v=ROXuh0RdjGA).
 
 ## Ville:
 
